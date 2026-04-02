@@ -72,9 +72,7 @@ npm install
 
 ## 👤 Author Credits
 
-| Author | Role | Focus |
-| :--- | :--- | :--- |
-| **Arish** | **Frontend Developer** | UI/UX, Design Systems, React Architecture |
+| **Arish** | **Frontend Developer** |
 
 - **GitHub**: [@Arish03](https://github.com/Arish03)
 - **Portfolio**: [arishsrinivasan](https://arishsrinivasan.in)

@@ -76,8 +76,8 @@ npm install
 | :--- | :--- | :--- |
 | **Arish** | **Frontend Developer** | UI/UX, Design Systems, React Architecture |
 
-- **GitHub**: [@Arish](https://github.com/Arish)
-- **Portfolio**: [arish.dev](https://arish.dev)
+- **GitHub**: [@Arish03](https://github.com/Arish03)
+- **Portfolio**: [arishsrinivasan](https://arishsrinivasan.in)
 
 ---
 
